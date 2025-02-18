@@ -1,2 +1,2 @@
-# Cole_EchoHawk_Git_Intro
+# Cole EchoHawk Git Intro
 Intro to Github Assignment Part 1
